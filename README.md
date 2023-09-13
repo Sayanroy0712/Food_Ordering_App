@@ -44,7 +44,8 @@ Click on this link : https://previewer.adalo.com/ed31447a-7c0d-4394-b503-00ad281
 
 Or
 
-Scan the QR Code : ![Scanner](https://github.com/Sayanroy0712/Food_Ordering_App/assets/100861954/7b56f741-80df-4cec-a99f-91c34591caa3)
+Scan the QR Code : 
+![Scanner](https://github.com/Sayanroy0712/Food_Ordering_App/assets/100861954/7b56f741-80df-4cec-a99f-91c34591caa3)
 
 
 

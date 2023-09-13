@@ -15,21 +15,37 @@ I have used Adalo to seamlessly design and launch a food ordering app that cater
 ## Key features of a food ordering app built with Adalo:
 
 ### 1.User-friendly Interface: 
+
 Design an intuitive and visually appealing user interface that allows customers to browse menus, customize their orders, and place them effortlessly.
 
 ### 2.Menu Management: 
+
 Implement a menu management system that enables restaurant owners to easily update and customize their offerings, including prices and item descriptions.
 
 ### 3.Order Tracking: 
+
 Integrate real-time order tracking, allowing customers to monitor the status of their orders from the kitchen to their doorstep.
 
 ### 4.Secure Payments: 
+
 Ensure secure and convenient payment options, including credit cards, mobile wallets, and cash on delivery.
 
 ### 5.Email Notifications: 
+
 Keep customers informed about order status, promotions, and new menu items through Email notifications.
 
 ### 6.Order History: 
+
 Allow users to access their order history for easy reordering and tracking expenses.
+
+## To Access the Application :
+
+Click on this link : https://previewer.adalo.com/ed31447a-7c0d-4394-b503-00ad28129616
+
+Or
+
+Scan the QR Code : ![Scanner](https://github.com/Sayanroy0712/Food_Ordering_App/assets/100861954/7b56f741-80df-4cec-a99f-91c34591caa3)
+
+
 
 With Adalo's no-code platform, one can design, develop, and launch ones food ordering app with ease, making it accessible to a wide range of businesses and users.

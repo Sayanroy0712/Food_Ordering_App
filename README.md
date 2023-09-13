@@ -14,16 +14,22 @@ I have used Adalo to seamlessly design and launch a food ordering app that cater
 
 ## Key features of a food ordering app built with Adalo:
 
-User-friendly Interface: Design an intuitive and visually appealing user interface that allows customers to browse menus, customize their orders, and place them effortlessly.
+### 1.User-friendly Interface: 
+Design an intuitive and visually appealing user interface that allows customers to browse menus, customize their orders, and place them effortlessly.
 
-Menu Management: Implement a menu management system that enables restaurant owners to easily update and customize their offerings, including prices and item descriptions.
+### 2.Menu Management: 
+Implement a menu management system that enables restaurant owners to easily update and customize their offerings, including prices and item descriptions.
 
-Order Tracking: Integrate real-time order tracking, allowing customers to monitor the status of their orders from the kitchen to their doorstep.
+### 3.Order Tracking: 
+Integrate real-time order tracking, allowing customers to monitor the status of their orders from the kitchen to their doorstep.
 
-Secure Payments: Ensure secure and convenient payment options, including credit cards, mobile wallets, and cash on delivery.
+### 4.Secure Payments: 
+Ensure secure and convenient payment options, including credit cards, mobile wallets, and cash on delivery.
 
-Email Notifications: Keep customers informed about order status, promotions, and new menu items through Email notifications.
+### 5.Email Notifications: 
+Keep customers informed about order status, promotions, and new menu items through Email notifications.
 
-Order History: Allow users to access their order history for easy reordering and tracking expenses.
+### 6.Order History: 
+Allow users to access their order history for easy reordering and tracking expenses.
 
 With Adalo's no-code platform, one can design, develop, and launch ones food ordering app with ease, making it accessible to a wide range of businesses and users.
